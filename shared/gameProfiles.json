@@ -1,0 +1,14 @@
+[
+  {"id":"cs2","name":"Counter-Strike 2","icon":"💣","processes":["cs2.exe","csgo.exe"],"rgb":{"color":"#ff4400","effect":"fire","brightness":90,"speed":60},"accentColor":"#ff4400"},
+  {"id":"valorant","name":"Valorant","icon":"🎮","processes":["valorant.exe","VALORANT-Win64-Shipping.exe"],"rgb":{"color":"#ff4455","effect":"pulse","brightness":85,"speed":55},"accentColor":"#ff4455"},
+  {"id":"f1_24","name":"F1 24","icon":"🏎","processes":["F1_24.exe","f1_24.exe","F124.exe"],"rgb":{"color":"#ff0000","effect":"color_cycle","brightness":100,"speed":70},"accentColor":"#ff0000"},
+  {"id":"minecraft","name":"Minecraft","icon":"⛏","processes":["javaw.exe","Minecraft.Windows.exe","minecraft.exe"],"rgb":{"color":"#5a8a3c","effect":"breathing","brightness":70,"speed":35},"accentColor":"#5a8a3c"},
+  {"id":"forza","name":"Forza Horizon 5","icon":"🚗","processes":["ForzaHorizon5.exe","ForzaHorizon4.exe","ForzaMotorsport.exe"],"rgb":{"color":"#00e5ff","effect":"comet","brightness":85,"speed":65},"accentColor":"#00e5ff"},
+  {"id":"cyberpunk","name":"Cyberpunk 2077","icon":"⚡","processes":["Cyberpunk2077.exe"],"rgb":{"color":"#ff00cc","effect":"aurora","brightness":90,"speed":45},"accentColor":"#ff00cc"},
+  {"id":"rdr2","name":"Red Dead Redemption 2","icon":"🤠","processes":["RDR2.exe"],"rgb":{"color":"#8b4513","effect":"breathing","brightness":60,"speed":30},"accentColor":"#ff6b35"},
+  {"id":"elden_ring","name":"Elden Ring","icon":"⚔️","processes":["eldenring.exe","start_protected_game.exe"],"rgb":{"color":"#ffd700","effect":"pulse","brightness":75,"speed":40},"accentColor":"#ffd700"},
+  {"id":"apex","name":"Apex Legends","icon":"🔫","processes":["r5apex.exe","r5apex_dx12.exe"],"rgb":{"color":"#ff6600","effect":"fire","brightness":95,"speed":75},"accentColor":"#ff6600"},
+  {"id":"overwatch2","name":"Overwatch 2","icon":"🦸","processes":["Overwatch.exe"],"rgb":{"color":"#ff9c00","effect":"rainbow_wave","brightness":85,"speed":55},"accentColor":"#ff9c00"},
+  {"id":"gta5","name":"GTA V","icon":"🌆","processes":["GTA5.exe","PlayGTAV.exe"],"rgb":{"color":"#00ff88","effect":"color_cycle","brightness":80,"speed":50},"accentColor":"#00ff88"},
+  {"id":"roblox","name":"Roblox","icon":"🧱","processes":["RobloxPlayerBeta.exe","RobloxPlayer.exe"],"rgb":{"color":"#ff0000","effect":"rainbow_wave","brightness":80,"speed":60},"accentColor":"#ff0000"}
+]
